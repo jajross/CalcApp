@@ -1,3 +1,3 @@
 # CalcApp
 
-Built as part of *COMP3006* at the *University of Plymouth*.
+Built as part of **COMP3006** at the **University of Plymouth**.
